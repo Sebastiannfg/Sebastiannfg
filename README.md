@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sebastiannfg
-- 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on anything interesting
 
