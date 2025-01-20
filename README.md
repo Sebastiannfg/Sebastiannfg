@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sebastiannfg
-- 🌱 I’m currently studying a Artificial Intelligence and Data bachelors
+- 🌱 I’m currently studying a Artificial Intelligence and Data Masters
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
